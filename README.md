@@ -1,8 +1,4 @@
 # flutterwanandroid
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+#### 项目简介
+一款基于Flutter 开发的WanAndroid开源客户端。
